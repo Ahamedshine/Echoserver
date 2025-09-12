@@ -64,9 +64,11 @@ print(f"Received {data!r}")
 ```
 
 ## OUTPUT:
+![WhatsApp Image 2025-09-12 at 13 30 27_83b6b6c7](https://github.com/user-attachments/assets/751ee45c-3889-4e5a-a30d-d8d48a9a02ed)
 
-<img width="751" height="1010" alt="Screenshot 2025-09-12 142822" src="https://github.com/user-attachments/assets/5bc78a96-32ab-46c9-bc93-ace248b8cb10" />
-<img width="888" height="1005" alt="Screenshot 2025-09-12 143028" src="https://github.com/user-attachments/assets/75c7745e-0299-4cae-a6ee-4b241997bd54" />
+
+![WhatsApp Image 2025-09-12 at 13 37 59_5d81b292](https://github.com/user-attachments/assets/df47eaab-ecec-47c3-8dc2-83cf2ad97b2e)
+
 
 
 ## RESULT:
